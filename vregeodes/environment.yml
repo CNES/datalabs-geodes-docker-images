@@ -7,7 +7,7 @@ dependencies:
   - eoreader
   - eosets
   - geocube
-  - jupytergis>=16
+  - jupytergis>=0.16
   - jupyter-tiler
   - openeo
   - qgis
